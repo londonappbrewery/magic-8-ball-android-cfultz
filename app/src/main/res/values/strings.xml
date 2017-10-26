@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="banner">Make Everyday Decisions Easier!</string>
+    <string name="shake_button">ASK</string>
+    <string name="answer_no">Answer: No.</string>
+    <string name="answer_later">Answer: Ask Again Later.</string>
+    <string name="answer_yes">Answer: Yes.</string>
+    <string name="answer_idk">Answer: I Have No Idea.</string>
+    <string name="answer_isyes">Answer: The Answer is Yes.</string>
 </resources>
